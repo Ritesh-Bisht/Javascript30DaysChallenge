@@ -5,7 +5,7 @@ console.log(` var vNum : ${vNum}`)
 let lString = "Ritesh"
 console.log(` let lString : ${lString}`)
 
-// ACTIVITY 2 : Conasatant Declaration
+// ACTIVITY 2 : Constant Declaration
 const CBoolean = false;
 console.log(` const CBoolean : ${CBoolean}`)
 
